@@ -14,3 +14,11 @@ DB_NAME=bad_dragon
 ```
 
 Alternatively, you can use the `bad_dragon.bak` file at root to restore the database from my instance.
+Then run :
+
+```bash
+npm install
+npm run dev
+```
+
+The website should now be available at `localhost:3000`.
