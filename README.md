@@ -14,6 +14,7 @@ DB_NAME=bad_dragon
 ```
 
 Alternatively, you can use the `bad_dragon.bak` file at root to restore the database from my instance.
+
 Then run :
 
 ```bash
