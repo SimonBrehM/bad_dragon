@@ -4,7 +4,7 @@ Small PoC project to demonstrate full-stack NextJS integration with SQL Server t
 
 ## Try it out 
 
-To get this to work, create a mssql instance, run the SQL queries from `./db/`, then create a `.env.local` at root file with :
+To get this to work, create a mssql instance, run the SQL queries from `./db/`, then create a `.env.local` file at root with :
 
 ```env
 DB_USER=sa
