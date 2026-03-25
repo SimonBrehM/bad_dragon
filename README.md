@@ -4,13 +4,13 @@ Small PoC project to demonstrate full-stack NextJS integration with SQL Server t
 
 ## Try it out 
 
-To get this to work, create a mssql instance, run the SQL queries from `./db`, then create a `.env.local` file with :
+To get this to work, create a mssql instance, run the SQL queries from `./db/`, then create a `.env.local` at root file with :
 
 ```env
-DB_USER=
-DB_PASS=
-DB_HOST=
-DB_NAME=
+DB_USER=sa
+DB_PASS=my_password
+DB_HOST=localhost
+DB_NAME=bad_dragon
 ```
 
 Alternatively, you can use the `bad_dragon.bak` file at root to restore the database from my instance.
